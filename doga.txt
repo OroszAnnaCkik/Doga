@@ -4,3 +4,4 @@ A harmadik
 B negyedik
 B ötödik
 A hatodik
+B hetedik
